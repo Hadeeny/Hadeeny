@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oluwasegun
-- 👀 I’m interested in fronted development projects
+- 👀 I’m interested in frontend development projects
 - 🌱 I’m currently learning React, RTK and Bootstrap and Tailwindcss
 - 💞️ I’m looking to collaborate on awesome projects where I can sharpen my skills
 - 📫 How to reach me: twitter @segun_deniyi
